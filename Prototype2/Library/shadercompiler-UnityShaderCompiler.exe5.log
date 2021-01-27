@@ -1,0 +1,20 @@
+Base path: 'D:/2020.2.1f1/Editor/Data', plugins path 'D:/2020.2.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=34514 outsize=578 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=37277 outsize=562 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=96346 outsize=3203 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=423441 outsize=16842 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=423441 outsize=76381 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=423443 outsize=55411 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=423443 outsize=79242 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=75879 outsize=6023 ok=1
+
+Quitting shader compiler process
